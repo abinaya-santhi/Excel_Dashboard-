@@ -1,6 +1,6 @@
 # Excel_Dashboard-
-
-Dashboard Analysis Report: Student Performance Analysis
+**
+Dashboard Analysis Report: Student Performance Analysis**
 1. Executive Summary
 This dashboard provides a comprehensive analysis of student performance based on a dataset of 1,000 students. The analysis explores the relationships between demographic factors (gender, race/ethnicity, parental education) and external factors (lunch type, test preparation) on standardized test scores in math, reading, and writing.
 
